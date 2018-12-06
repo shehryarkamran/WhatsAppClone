@@ -3,15 +3,6 @@ WhatsAppClone
  
 ▷ Create an android app like whatsApp 
  
-▷ Full Video Tutorial Playlist here: https://www.youtube.com/watch?v=wdcH58Nzm-o&index=1&list=PLxabZQCAe5fgGQggJxp5nuI1ESzP-oMED <br /> 
- 
-▷ Become a Patreon: https://www.patreon.com/simpleCoder<br /> 
-▷ Donate with PayPal: https://www.paypal.me/simcoder<br /> 
-▷ Twitter: https://twitter.com/S1mpleCoder<br /> 
-▷ GitHub : https://goo.gl/88FHk4<br /> 
- 
-▷ If you have any question please ask, I'll try to answer to every question and even look at your code if that is necessary. 
- 
  
 **Important Links** 
  
