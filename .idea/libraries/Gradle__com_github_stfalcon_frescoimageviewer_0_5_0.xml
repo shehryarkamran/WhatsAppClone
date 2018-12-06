@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.stfalcon:frescoimageviewer-0.5.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/frescoimageviewer-0.5.0.aar/b42ae3324d5619e75c8f93deeb5cb407/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/frescoimageviewer-0.5.0.aar/b42ae3324d5619e75c8f93deeb5cb407/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stfalcon/frescoimageviewer/0.5.0/ff675dc51fefb7cb933525e56b9b9a9eed792441/frescoimageviewer-0.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
